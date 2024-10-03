@@ -59,26 +59,7 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-   - images/nasi-goreng.jpeg
-   - images/bakso.jpeg
-   - images/bubur-ayam.jpg
-   - images/es-campur.jpg
-   - images/es-cendol.jpg
-   - images/gado-gado.jpg
-   - images/gulai-kambing.jpg
-   - images/kerak-telor.jpg
-   - images/klepon.jpeg
-   - images/martabak-manis.jpg
-   - images/martabak-telur.jpg
-   - images/mie-ayam.jpg
-   - images/nasi-liwet.jpg
-   - images/nasi-uduk.jpg
-   - images/pempek.jpg
-   - images/rendang.jpg
-   - images/sate-ayam.jpg
-   - images/soto-betawi.jpg
-   - images/soto-ayam.jpg
+ 
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
